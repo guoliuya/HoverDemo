@@ -31,6 +31,9 @@ private TextView tv;
 
           textView.getPaint().setFlags(0);  // 取消设置的的划线
 		 */
+		
+		
+		//hahahahaha
 		bt=(Button) findViewById(R.id.bt);
 		tv=(TextView) findViewById(R.id.tv);
 		tv.getPaint().setFlags(Paint. STRIKE_THRU_TEXT_FLAG);
